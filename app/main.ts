@@ -1,4 +1,5 @@
-import { platformNativeScriptDynamic, NativeScriptModule } from "nativescript-angular/platform";
+import { platformNativeScriptDynamic } from "nativescript-angular/platform";
+import { NativeScriptModule } from "nativescript-angular/nativescript.module";
 import { NgModule } from "@angular/core";
 import { NativeScriptFormsModule } from "nativescript-angular/forms";
 import { NativeScriptHttpModule } from "nativescript-angular/http";
